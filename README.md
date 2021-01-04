@@ -16,8 +16,8 @@ The Python Install .pdf above provides some links and instructions for getting s
 ## Notebooks
 The main material we will be discussing in the tutorial is contained in the four Jupyter notebooks presented above. 
 
-*  **0\_Jupyter\_Basics.ipynb** This notebook walks through the basic usage of Jupyter notebooks and how to interact with Python cells. It also includes examples of  basic arithmetic, variable assignment, data types, data structures,  and imports work in Python as well as a couple of exercises to check your understanding. If you already have some familiarity with Python, this one is safe to skip \smiley
-* **1\_Ego\_Networks.ipynb** This notebook explores the basic properties of the Graph object in networkx by directly constructing ego networks. We will see how to access properties of the corresponding nodes and edges and visualize the networks using the `draw' function. 
+*  **0\_Jupyter\_Basics.ipynb** This notebook walks through the basic usage of Jupyter notebooks and how to interact with Python cells. It also includes examples of  basic arithmetic, variable assignment, data types, data structures,  and imports work in Python as well as a couple of exercises to check your understanding. If you already have some familiarity with Python, this one is safe to skip :)
+* **1\_Ego\_Networks.ipynb** This notebook explores the basic properties of the Graph object in networkx by directly constructing ego networks. We will see how to access properties of the corresponding nodes and edges and visualize the networks using the `draw` function. 
 * **2\_Social\_Networks.ipynb** In this notebook we will examine how to work with larger and more complex networks and evaluate the results of graph algorithms, including centrality calculations. The main motivating examples will show some of the common properties of social networks and how they differ from structured combinatorial graphs and random network models. 
 * **3\_Network\_Dynamics.ipynb** In the final notebook we will put everything together, looking at how to model random walks, heat diffusion, and epidemiological disease spreading using networkx. 
 
@@ -41,6 +41,13 @@ The main material we will be discussing in the tutorial is contained in the four
 
 ## Other Resources
 
-* Additional example  notebooks for common network analysis tasks can be found here: \url{https://github.com/drdeford/Math_581_05}, the course repository for Math 581: Computational Tools for Complex Networks. These notebooks don't have as much expository material as the ones for this tutorial session but do include more detailed computations.
-* If you are interested in trying out the GerryChain package for analyzing districting plans, you can find tutorial notebooks and sample data here: \url{https://github.com/drdeford/GerryChain-Templates} along with additional documentation. 
+One hour isn't nearly enough time to explore all of the facets of networkx, so here are some good starting places if you are interested in learning more: 
+
+* The NetworkX documentation is always a good starting spot and contains numerous examples in addition to the descriptions of functions and parameters: https://networkx.org/documentation/stable/index.html
+* I taught a graduate class on Computational Tools for Complex Networks at WSU last semester and the course repository (with additional notebooks and exposition documents) can be found here: https://github.com/drdeford/Math_581_05 The notebooks don't have as much expository material as the ones for this tutorial session but do include more detailed computations.
+* As a part of the 2019 VRDI, I taught a week of breakout sessions about networks with materials here: https://github.com/vrdi/Networks-Breakout
+* If you are interested in trying out the GerryChain package for analyzing districting plans, you can find:
+** 
+** https://github.com/drdeford/GerryChain-Templates 
+** 
 
