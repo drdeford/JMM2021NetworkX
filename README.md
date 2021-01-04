@@ -47,7 +47,7 @@ One hour isn't nearly enough time to explore all of the facets of networkx, so h
 * I taught a graduate class on Computational Tools for Complex Networks at WSU last semester and the course repository (with additional notebooks and exposition documents) can be found here: https://github.com/drdeford/Math_581_05 The notebooks don't have as much expository material as the ones for this tutorial session but do include more detailed computations.
 * As a part of the 2019 VRDI, I taught a week of breakout sessions about networks with materials here: https://github.com/vrdi/Networks-Breakout
 * If you are interested in trying out the GerryChain package for analyzing districting plans, you can find:
-** 
-** https://github.com/drdeford/GerryChain-Templates 
-** 
+  * Mathematical background (some typos!): http://people.csail.mit.edu/ddeford/mcmc_intro.php
+  * Templates and notebooks here: https://github.com/drdeford/GerryChain-Templates 
+  * A bootcamp-style introduction here: https://github.com/vrdi/GerryChain-BootCamp
 
